@@ -1,0 +1,13 @@
+---
+title: "Are we losing knowledge due to anthropogenic changes in the landscape?"
+format: html
+---
+
+```{r}
+trackdown::update_file("lostknowledge_inprep.qmd")
+
+```
+
+
+Are we losing knowledge due to anthropogenic changes in the landscape?
+Yes, we will. But, only somewheres.
